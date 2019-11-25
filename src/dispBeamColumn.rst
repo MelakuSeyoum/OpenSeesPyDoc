@@ -9,7 +9,7 @@
 .. function:: element('dispBeamColumn',eleTag,iNode,jNode,transfTag,integrationTag,'-cMass','-mass',mass=0.0)
    :noindex:
 
-   Create a ForceBeamColumn element.
+   Create a Displacement-Based Beam-Column Element.
 
    ========================   =============================================================
    ``eleTag`` |int|           tag of the element
