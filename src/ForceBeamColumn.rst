@@ -9,7 +9,7 @@
 .. function:: element('forceBeamColumn',eleTag,iNode,jNode,transfTag,integrationTag,'-iter',maxIter=10,tol=1e-12,'-mass',mass=0.0)
    :noindex:
 
-   Create a ForceBeamColumn element.
+   Create a Force-Based Beam-Column element.
 
    ========================   =============================================================
    ``eleTag`` |int|           tag of the element
